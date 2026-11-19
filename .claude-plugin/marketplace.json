@@ -1,0 +1,1 @@
+{ "name": "fable-router", "owner": { "name": "local" }, "plugins": [ { "name": "fable-router", "source": "./", "description": "Cost router: Haiku scouts, Sonnet workers, Fable only when the job is big enough." } ] }

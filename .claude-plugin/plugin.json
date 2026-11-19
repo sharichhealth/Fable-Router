@@ -1,0 +1,6 @@
+{
+  "name": "fable-router",
+  "version": "0.9.3",
+  "description": "Routes work by cost: Haiku scouts, Sonnet workers, Fable only for big or judgment-heavy jobs, with a gate that refuses Fable when the job is too small.",
+  "types": "./types/index.d.ts"
+}
